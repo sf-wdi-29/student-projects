@@ -1,4 +1,4 @@
 #Gaia Projects
 
-* [First Projects](./first-projects.md)
-* [Second Projects](./second-projects.md)
+* [Front-end Game](./first-projects.md)
+* [Full-stack CRUD App](./second-projects.md)
